@@ -1,4 +1,4 @@
-# nestjs-omit-type-bug
+# nestjs-omit-type-bug (See [issue](https://github.com/typestack/class-transformer/issues/1182))
 
 1. `npm install`
 2. `npm run start:dev`
